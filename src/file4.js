@@ -1,3 +1,3 @@
 function yetAnotherFun () {
-    // body...
+    alert("removed a line");
 }
