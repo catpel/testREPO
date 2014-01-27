@@ -1,3 +1,3 @@
 function myfunct () {
-    alert("hello world");
+    alert("Bonjour le monde");
 }
